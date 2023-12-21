@@ -1,4 +1,4 @@
-`theme: jekyll-theme-tactile`
+`theme: jekyll-theme-minimal`
 
 # はじめに
 ## 概要
